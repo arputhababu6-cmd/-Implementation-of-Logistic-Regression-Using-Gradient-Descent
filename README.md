@@ -15,7 +15,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 ```
-Ex 6 import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 
 # Sample dataset
